@@ -8,8 +8,7 @@
    FunctionsToExport = @(
      'get-msAccess'                ,
      'show-msAccess'               ,
-     'invoke-msAccessQuery'        ,
-     'invoke-msAccessQueryFromFile'
+     'invoke-msAccessQuery'
    )
    AliasesToExport   = @(
      'acc-query'                   ,
